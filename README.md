@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Abhay Dixit</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
-- 👀 I am interested in **Solving Problems through Code**
+- 👀 interested in **Solving Problems through Code**
 
-- 👯 I’m looking to collaborate on **Javascript Projects**
+- 👯 looking to collaborate on **Javascript Projects**
 
 - 💬 Ask me about **React.js, Node.js, Express.js, MongoDB**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 currently learning **Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
